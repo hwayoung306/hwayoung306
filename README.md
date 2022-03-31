@@ -2,7 +2,7 @@
 
 교육이수 후 **백엔드 개발자**가 되기 위해 공부하고 있습니다.
 
-주로 **Java, database, JDBC, JSP/SERVELT**을 하고있으며,
+주로 **Java, database(Oracle), JDBC, JSP/SERVELT**을 하고있으며,
 
 정보처리기사 실기와 **Spring**을 공부하고 있습니다.
 
