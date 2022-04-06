@@ -2,9 +2,11 @@
 
 교육이수 후 **백엔드 개발자**가 되기 위해 공부하고 있습니다.
 
-주로 **Java, database(Oracle), JDBC, JSP/SERVELT**을 하고있으며,
+주로 **Java, database(Oracle), JDBC, JSP/SERVELT**을 사용합니다.
 
-정보처리기사 실기와 **Spring**을 공부하고 있습니다.
+요즘은 개인적으로 **정보처리기사**와 **Spring**을 공부하고있고,
+
+**광주 ICT 이노베이션 스퀘어 인공지능 중·고급과정**을 수강하고있습니다.
 
 📫 e-mail : hwayoung306@gmail.com
 
